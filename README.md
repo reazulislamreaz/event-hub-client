@@ -15,8 +15,8 @@ Users can register/login, add events, browse events with filters, join events (o
 ### 🌐 Live & Source Code Links
 
 - 🔗 **Live Site:** [https://event-hub-by-reaz.netlify.app/](https://event-hub-by-reaz.netlify.app/)
-- 💻 **Client Repository:** [GitHub - Client](https://github.com/reazulislam/event-hub-clinet)
-- 🛠️ **Server Repository:** [GitHub - Server](https://github.com/reazulislam/event-hub-sever)
+- 💻 **Client Repository:** [GitHub - Client](https://github.com/reazulislamreaz/event-hub-clinet)
+- 🛠️ **Server Repository:** [GitHub - Server](https://github.com/reazulislamreaz/event-hub-sever)
 
 ---
 
